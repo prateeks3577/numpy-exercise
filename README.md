@@ -1,0 +1,2 @@
+# numpy-exercise
+practise numpy
